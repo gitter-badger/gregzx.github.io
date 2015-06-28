@@ -1,5 +1,7 @@
 # Gregzx-github-io
 
+[![Join the chat at https://gitter.im/gregzx/gregzx.github.io](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/gregzx/gregzx.github.io?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Just running some tests.
 
 This README outlines the details of collaborating on this Ember application.
